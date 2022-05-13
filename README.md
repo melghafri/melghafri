@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @melghafri
+- 👋 Hi, I’m Mahdi Elghafri
 - 👀 I’m interested in network automation
 - 🌱 I’m currently learning python with NETMIKO and TextFSM
 - 💞️ I’m looking to collaborate on pulling data form Cisco IOS-XE (Catalyst 9K, IE 3K, IE 4K)
